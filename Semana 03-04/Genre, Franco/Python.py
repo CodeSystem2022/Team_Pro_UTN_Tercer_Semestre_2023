@@ -1,3 +1,4 @@
+# CLASE 01 - LUNES 03/04/2023
 # Manejo de Excepciones:
 
 from NumerosIgualesExcepcion import NumerosIgualesExcepcion
