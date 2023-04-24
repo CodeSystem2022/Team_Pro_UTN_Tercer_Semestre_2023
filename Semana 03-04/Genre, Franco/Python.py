@@ -1,4 +1,4 @@
-#Manejo de Excepciones
+# Manejo de Excepciones:
 
 from NumerosIgualesExcepcion import NumerosIgualesExcepcion
 
