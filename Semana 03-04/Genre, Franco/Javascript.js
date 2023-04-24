@@ -1,4 +1,4 @@
-// while
+// CLASE 01 - LUNES 03/04/2023
 let cont = 0;
 while(cont < 3){
     console.log(cont); 
